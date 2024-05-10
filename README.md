@@ -2,7 +2,7 @@
 
 ## Description:
 
-The Advanced Java Library Management System is an advanced application that is designed to manage books and members in a library. This system provides advanced features functionalities such as adding new books, registering new members, checking out books, and searching for books by title or author, registering new members and checking out books, tracking due dates for borrowed books, calculating overdue fines, background notifications for due books, and data persistence through file streams.
+The Advanced Java Library Management System is an advanced application that is designed to manage books and members in a library. This system provides advanced features functionalities such as adding new books, registering new members, checking out books, and searching for books by title or author, registering new members, checking out books, tracking due dates for borrowed books, calculating overdue fines, background notifications for due books, and data persistence through file streams.
 
 ## Features:
 
