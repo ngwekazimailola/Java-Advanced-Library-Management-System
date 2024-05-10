@@ -12,7 +12,7 @@ The Advanced Java Library Management System is an advanced application that is d
 - **4. Search Books:** Search for books by title or author.
 - **5. Register new member** Register a new member to the library.
 - **Check Out Books:** Allow members to check out available books.
-- - **7. View Due Dates and Fines:** Track due dates for borrowed books and view overdue fines.
+- **7. View Due Dates and Fines:** Track due dates for borrowed books and view overdue fines.
 - **8. Exit:** Quit the application and save data to text file.
 
 
